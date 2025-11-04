@@ -77,7 +77,7 @@
                     <label for="phone" class="block text-sm font-medium text-gray-700">Número de Teléfono</label>
                     <input type="tel" id="phone" name="phone" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm p-3 border focus:border-primary focus:ring-primary">
                 </div>
-                <button type="submit" class="w-full bg-accent text-primary font-bold py-3 px-4 rounded-lg shadow-lg hover:bg-yellow-600 transition duration-300">
+                <button type="submit" class="w-full bg-accent text-primary font-black py-3 px-4 rounded-lg shadow-lg hover:bg-yellow-600 transition duration-300">
                     Ir a Pago Seguro
                 </button>
             </form>
